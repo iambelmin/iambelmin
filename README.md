@@ -14,7 +14,7 @@ I build features end to end, wire AI into real production data, and keep the who
 | | |
 |---|---|
 | 🏅 Freelance record | **Top Rated Plus**, 100% Job Success Score |
-| ⏳ Experience | **8+ years** professional, building since age 14 |
+| ⏳ Experience | **8+ years** professional |
 | 🤖 Building with LLM APIs since | **2023** (GPT-4 era) |
 | 🗣️ Languages | Bosnian (native), English (fluent) |
 
